@@ -1,9 +1,9 @@
-= AMoAd SDK Guide for Android
+= AMoAd SDK Guide for Android v4.7.1
 
 :numbered:
 :sectnums:
 
-- link:https://github.com/amoad/amoad-android-sdk/archive/master.zip[ZIPをダウンロード]
+- link:https://github.com/amoad/amoad-android-sdk/archive/v4.7.zip[ZIPをダウンロード]
 - link:https://github.com/amoad/amoad-android-sdk/wiki[ドキュメント]
 
 == 更新情報
