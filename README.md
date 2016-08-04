@@ -4,7 +4,7 @@
 
 # AMoAd Android Sdk ver4.8.1
 
-- [ZIPをダウンロード](https://github.com/amoad/amoad-android-sdk/archive/master.zip)
+- [ZIPをダウンロード](https://github.com/amoad/amoad-android-sdk/archive/v4.8.zip)
 - [ドキュメント](https://github.com/amoad/amoad-android-sdk/wiki)
 
 ## 更新情報
